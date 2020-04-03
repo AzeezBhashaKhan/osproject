@@ -1,0 +1,45 @@
+Checking for students if anybody available.
+        Student 1 is programming for 1 seconds.
+        Student 4 is programming for 1 seconds.
+        Student 2 is programming for 1 seconds.
+        Student 5 is programming for 1 seconds.
+No students waiting. Sleeping.
+        Student 3 is programming for 1 seconds.
+                Student 3 takes a seat. Students waiting = 1.
+                Student 5 takes a seat. Students waiting = 2.
+                Student 2 takes a seat. Students waiting = 3.
+                        Student 4 will try later.
+Helping a student for 1 seconds. Students waiting = 2.
+                        Student 1 will try later.
+        Student 4 is programming for 2 seconds.
+Student 3 receiving help.
+        Student 1 is programming for 2 seconds.
+        Student 3 is programming for 2 seconds.
+Helping a student for 2 seconds. Students waiting = 1.
+Student 5 receiving help.
+        Student 5 is programming for 2 seconds.
+                Student 3 takes a seat. Students waiting = 2.
+                Student 1 takes a seat. Students waiting = 3.
+                        Student 4 will try later.
+Helping a student for 4 seconds. Students waiting = 2.
+        Student 4 is programming for 4 seconds.
+Student 2 receiving help.
+        Student 2 is programming for 2 seconds.
+                        Student 5 will try later.
+        Student 5 is programming for 4 seconds.
+                Student 2 takes a seat. Students waiting = 3.
+                        Student 5 will try later.
+        Student 5 is programming for 0 seconds.
+Helping a student for 0 seconds. Students waiting = 2.
+Student 3 receiving help.
+        Student 3 is programming for 4 seconds.
+                Student 4 takes a seat. Students waiting = 3.
+                        Student 5 will try later.
+        Student 5 is programming for 4 seconds.
+Helping a student for 4 seconds. Students waiting = 2.
+Student 1 receiving help.
+        Student 1 is programming for 4 seconds.
+                Student 5 takes a seat. Students waiting = 3.
+                        Student 1 will try later.
+        Student 1 is programming for 0 seconds.
+Helping a student for 4 seconds. Students waiting = 2.
